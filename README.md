@@ -1,2 +1,14 @@
-# Tarea_N9
-Capitulo 17 y Capitulo 18
+1. OBJETIVO GENERAL 
+
+- OBEJTVIOS ESPECIFICOS
+
+2. MARCO TEORICO (RESUMEN)
+- ![image](https://user-images.githubusercontent.com/105893980/188216821-21a02014-435d-43a2-bf15-65ac4950c901.png)
+- ![image](https://user-images.githubusercontent.com/105893980/188216850-949551db-3141-4ccd-910f-031f60953fc8.png)
+3. RESOLUCION DE EJERCICIOS
+
+4. VIDEOS
+
+5. CONCLUSIONES
+
+6. BIBLIOGRAFIA
