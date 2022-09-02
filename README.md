@@ -27,7 +27,7 @@
 - ![image](https://user-images.githubusercontent.com/105893980/188220474-4b6f8615-c701-4623-82c0-12972632ec19.png)
 - ![image](https://user-images.githubusercontent.com/105893980/188220390-90368025-7f76-469c-b846-ebd5fa559c29.png)
 10. En la figura 17-61, determine XL, XC, Z e I a la frecuencia resonante
-![image](https://user-images.githubusercontent.com/105893980/188220712-41999b3d-6817-4f3b-a4c5-7f8b3793346c.png)
+- ![image](https://user-images.githubusercontent.com/105893980/188220712-41999b3d-6817-4f3b-a4c5-7f8b3793346c.png)
 12. Para el circuito RLC de la figura 17-62, determine la frecuencia resonante
 - ![image](https://user-images.githubusercontent.com/105893980/188220778-8eaf6dfd-a9f1-48a9-8aed-beb681b7c356.png)
 14. En la figura 17-62, determine el ángulo de fase entre el voltaje aplicado y la corriente a las frecuencias críticas. ¿Cuál es el ángulo de fase en condición de resonancia?
