@@ -1,5 +1,5 @@
 1. OBJETIVO GENERAL 
-
+* Estudiar el efecto de la resonancia en un circuito serie, paralelo, serie-paralelo RLC (L=inductancia, R=resistencia, C=capacitancia) observando la respuesta del circuito como una función de la frecuencia del voltaje aplicado.
 - OBEJTVIOS ESPECIFICOS
 -	Determinar la impedancia de un circuito RLC en serie
 -	Analizar circuitos RLC en serie
