@@ -120,7 +120,12 @@
 26. Si la resistencia de las bobinas de la figura 18-47 es de 8 Ω, ¿cuál es el voltaje de salida en condición de resonancia cuando Vent = 50 V?
 - ![image](https://user-images.githubusercontent.com/105893980/188227582-4e40a6ef-7244-43c0-a9ce-b80e8b3763c4.png)
 4. VIDEOS
-
+- CAPITULO 17
+- https://youtu.be/OtU3OTo2oGc
+- https://youtu.be/6CEzz8vgiBo
+- CAPITULO 18
+- https://youtu.be/KUb7fAe7gnc 
+- https://youtu.be/PONEsrViwhQ
 5. CONCLUSIONES
 - Se puede concluir que los filtros pasivos son imprescindibles para extraer o limpiar las frecuencias innecesarias que se emplean en el circuito de elementos pasivos o circuito RLC.
 - Dentro de los tipos de filtros podemos considerar los pasivos y activos. Los pasivos son los que están conformados por resistencias, condensadores y bobinas y a su vez estos se pueden clasificar como: filtro pasabajas, filtro pasaaltas, filtro pasabanda y filtro rechazabanda; donde cada uno de los filtros pasivos mencionados anteriormente utilizan una función de transferencia diferente, la cual representa el comportamiento del circuito en función la frecuencia de la señal.
