@@ -130,5 +130,5 @@
 - Se puede concluir que los filtros pasivos son imprescindibles para extraer o limpiar las frecuencias innecesarias que se emplean en el circuito de elementos pasivos o circuito RLC.
 - Dentro de los tipos de filtros podemos considerar los pasivos y activos. Los pasivos son los que están conformados por resistencias, condensadores y bobinas y a su vez estos se pueden clasificar como: filtro pasabajas, filtro pasaaltas, filtro pasabanda y filtro rechazabanda; donde cada uno de los filtros pasivos mencionados anteriormente utilizan una función de transferencia diferente, la cual representa el comportamiento del circuito en función la frecuencia de la señal.
 - Un filtro pasaaltas se forma cuando la salida de un circuito RC se toma de la resistenciaTambién se puede formar un filtro pasaaltas cuando la salida de un circuito RL se toma desde la bobina
-
 6. BIBLIOGRAFIA
+- Floyd, T. L. (2007). Principios de Circuitos Electricos. Mexico: Pearson Educacion.
